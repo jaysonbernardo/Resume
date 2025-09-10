@@ -96,13 +96,13 @@ li {
   border-bottom-left-radius: 8px;
 }
 #name {
-  font-size: 20px;
+  font-size: 20px !important;
   margin-top: 100px;
   color: gold;
   font-family: "Orbitron", sans-serif;
 }
 #profession {
-  font-size: 18px;
+  font-size: 18px !important;
   margin: 10px;
   font-style: italic;
   font-family: "Orbitron", sans-serif;
